@@ -5583,10 +5583,10 @@ react-native-typing-animation@^0.1.7:
   resolved "https://registry.npm.taobao.org/react-native-typing-animation/download/react-native-typing-animation-0.1.7.tgz#8f2cf08d9400ae543a110292eb7d71523dda5528"
   integrity sha1-jyzwjZQArlQ6EQKS631xUj3aVSg=
 
-react-native-webview@^10.3.2:
-  version "10.3.2"
-  resolved "https://registry.npm.taobao.org/react-native-webview/download/react-native-webview-10.3.2.tgz#c634946152099c95d521a3abc71065d1d642e192"
-  integrity sha1-xjSUYVIJnJXVIaOrxxBl0dZC4ZI=
+react-native-webview@^11.0.0:
+  version "11.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-11.0.0.tgz#d667cbcc772e963fe88a4156290d25fe47ed43b0"
+  integrity sha512-gzID5ebCFVNkxreuabClymo6QkJbXCLEtiIUY9QAhxY58HsDUp8x0YzDVEROYyEJ4ghL71koAOeQRDNAgNnh1w==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
